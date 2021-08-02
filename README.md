@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaradGhodake
-- `$whoami`: [varadghodake.github.io/](https://varadghodake.github.io/)
+- `$whoami`: [varadghodake.github.io](https://varadghodake.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varadghodake/)   |   [Facebook](https://www.facebook.com/profile.php?id=100004518889548)
 - 📧 varadghodake@gmail.com
 
